@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;cruddemo&apos; to &apos;21-hibernate-with-service-demo&apos;" description="Rename resource &apos;cruddemo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/cruddemo" name="21-hibernate-with-service-demo" stamp="1624511703579" updateReferences="true"/>
+</session>
